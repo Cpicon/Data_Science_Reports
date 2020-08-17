@@ -1,3 +1,6 @@
+
+
+
 # Data_Science_Reports
 This repository contains a number of projects and reports of Data Camp platform in different fields, such as Android app market analysis on Google Play, Super Bowl data analysis, etc. The main objective is to develop practical skills in case study.
 
@@ -20,4 +23,9 @@ The data for this project was scraped from the Google Play website. While there 
     apps.csv: contains all the details of the applications on Google Play. There are 13 features that describe a given app.
     user_reviews.csv: contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed and attributed with three new features: Sentiment (Positive, Negative or Neutral), Sentiment Polarity and Sentiment Subjectivity.
     
+## Web Scrapping Quotes Analysis:
 
+This project comprising Web scrapping of [Quotes to scrape](quotes.toscrape.com). Web scrapping is a way to get information of web pages, specially 
+when the information can be obtained in a systematic manner. In this example, the web page contains a lot of famous qoutes with their respective author. 
+
+	web_scrap.py : Script connectS the server and request the information. 	
