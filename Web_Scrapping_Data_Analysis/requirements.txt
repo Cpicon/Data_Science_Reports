@@ -37,7 +37,7 @@ httpx==0.13.3
 hyperframe==5.2.0
 idna==2.10
 ipykernel==5.3.2
-ipython==7.16.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.17.1
